@@ -1,0 +1,14 @@
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.AssemblyInfoInputs.cache
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.AssemblyInfo.cs
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\bin\Debug\net8.0\Uni-directional Association Example 1.exe
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\bin\Debug\net8.0\Uni-directional Association Example 1.deps.json
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\bin\Debug\net8.0\Uni-directional Association Example 1.runtimeconfig.json
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\bin\Debug\net8.0\Uni-directional Association Example 1.dll
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\bin\Debug\net8.0\Uni-directional Association Example 1.pdb
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.dll
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\refint\Uni-directional Association Example 1.dll
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.pdb
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\Uni-directional Association Example 1.genruntimeconfig.cache
+C:\Users\Muhammed\source\repos\Uni-directional Association Example 1\Uni-directional Association Example 1\obj\Debug\net8.0\ref\Uni-directional Association Example 1.dll
